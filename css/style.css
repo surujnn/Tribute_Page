@@ -1,6 +1,6 @@
-body {
+ body {
   width: 1440px;
-  color: #EAD5E6
+
 }
 img {
   width: 100%;
@@ -39,6 +39,7 @@ header img {
   grid-area: con1;
   display:flex;
   justify-content: center;
+  color: #EAD5E6;
 }
 .Containertext{
   padding-top: 70px;
